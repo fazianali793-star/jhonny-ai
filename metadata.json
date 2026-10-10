@@ -1,0 +1,6 @@
+{
+  "name": "JHONNY AI",
+  "description": "Licensed short-form video clip platform for creators and publishers to browse, preview, and download permission-cleared video clips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
